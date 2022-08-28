@@ -27,3 +27,5 @@ ex) pages에 about.js를 만든다면 별도의 router 처리 없이 localhost:3
       - react.js를 백엔드에서 동작(페이지를 미리 만들어둠.)
       - -> component를 랜더링 한 후 만들어진 html이 유저에게  미리 보여짐.
     - SEO, 검색 엔진, 유저에게 매우 좋음.
+
+### 4. Routing
